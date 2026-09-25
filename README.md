@@ -1,2 +1,2 @@
-# CSElec1
+# CSElec1_LabActivity1
 Laboratory Activity
